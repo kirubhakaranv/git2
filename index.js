@@ -1,5 +1,4 @@
-console.log("Hello");
-
+console.log("Hello to plalylist app");
 for(var i=0;i<5;i++){
-    console.log("code ");
+    console.log("Code io");
 }
